@@ -43,10 +43,15 @@ If you’re looking for someone who can contribute meaningfully to your team or 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
 </p>
-- **Frontend:** React, React Native, Redux  
+
+- **Frontend:** React, React Native, Redux
+- 
 - **Backend & APIs:** Firebase, Django, Node.js  
+-
 - **Languages:** JavaScript, Python, C++, Typescript
+-
 - **Databases:** MySQL, PostgreSQL  
+-
 - **Tools & Platforms:** Git, GitHub, Android Studio  
 
 ---
