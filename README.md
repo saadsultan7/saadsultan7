@@ -45,13 +45,9 @@ If you’re looking for someone who can contribute meaningfully to your team or 
 </p>
 
 - **Frontend:** React, React Native, Redux
-- 
 - **Backend & APIs:** Firebase, Django, Node.js  
--
 - **Languages:** JavaScript, Python, C++, Typescript
--
-- **Databases:** MySQL, PostgreSQL  
--
+- **Databases:** MySQL, PostgreSQL 
 - **Tools & Platforms:** Git, GitHub, Android Studio  
 
 ---
