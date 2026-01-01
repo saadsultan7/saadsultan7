@@ -18,7 +18,7 @@ If you’re looking for someone who can contribute meaningfully to your team or 
 
 - **Frontend:** React, React Native, Redux  
 - **Backend & APIs:** Firebase, Django, Node.js  
-- **Languages:** JavaScript, Python, C++  
+- **Languages:** JavaScript, Python, C++, Typescript
 - **Databases:** MySQL, PostgreSQL  
 - **Tools & Platforms:** Git, GitHub, Android Studio  
 
@@ -132,9 +132,9 @@ SaaS platform for travel agencies.
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** _(add link)_  
-- **Portfolio:** _(add link)_  
-- **Email:** _(optional)_
+- **LinkedIn:** https://www.linkedin.com/in/saad-sultan-25a323298/
+- **Portfolio:** https://portfolio-ecru-two-36.vercel.app/  
+- **Email:** saadsultan4004@gmail.com
 
 ---
 
