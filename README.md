@@ -31,7 +31,7 @@ If you’re looking for someone who can contribute meaningfully to your team or 
 *Feb 2025 – Present*  
 - Building scalable web and mobile applications for international clients  
 - Working across full application lifecycles  
-- Projects: **Hifz Tracking**, **Umrah Portal**
+- Projects: **Hifz Tracking**, **Umrah Portal** **Industrial Asset and Maintenance Management Application**
 
 ---
 
