@@ -16,7 +16,7 @@ If you’re looking for someone who can contribute meaningfully to your team or 
 
 ## 🛠️ Skills & Technologies
 
-<p align="left">
+<p align="center">
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React / React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
