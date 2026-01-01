@@ -31,7 +31,6 @@ If you’re looking for someone who can contribute meaningfully to your team or 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="MUI" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devexpress/devexpress-original.svg" height="40" alt="DevExtreme" />
 
   <!-- Backend & Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
